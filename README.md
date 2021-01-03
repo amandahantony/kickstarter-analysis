@@ -17,7 +17,7 @@ To draw conclusions about theatre outcomes based on launch date, a pivot table (
 
 ### Analysis of Outcomes Based on Goals
 A table (shown below) was curated to understand the outcomes of theatre plays based on funding goals. For this analysis, we looked at 12 different goal ranges and the number of plays that were successful, failed or canceled in each range. The COUNTIFS function was used to gather the number of plays that fit into each category. 
-![Theatre Outcomes by Launch Date - Pivot Table](Pivot_Table.png)
+![Outcomes Based on Goals - Table](Excel_Table.png)
 
 
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
