@@ -21,6 +21,11 @@ A table (shown below) was curated to understand the outcomes of theatre plays ba
 ###### Excel Table: Outcomes Based on Goals
 ![Outcomes Based on Goals - Table](Excel_Table.png)
 
+### Challenges and Difficulties Encountered
+The first pivot table that I created was not showing the same values as the reference table in the module notes. Although I correctly put the corresponding titles into the filter, column, row and values sections, the numbers were not adding up. I had to go back to the original Kickstarter data set and make sure that everything was in place. Although I didn't register it as a solution at the time, I decided to clear the filters one more time. Turns out, I didn't clear them properly the first time. Even a simple task such as removing filters can sometimes be overlooked in the midst of the thousands of data cells. Another lesson I learned while completing this project was the importance of precision. Missing even a single character in a function can yield improper values. 
+
+
+## Results
 
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
