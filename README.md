@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing Excel analysis on Kickstarter data to uncover trends
+# Excel Analysis of Kickstarter Projects Across the Globe
+Performing Excel analysis on Kickstarter projects and their data to map trends and produce meaningful conclusions.
