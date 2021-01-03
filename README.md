@@ -9,5 +9,12 @@ Using the values and charts obtained through this excel analysis, Louise will be
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-To draw conclusions about theatre outcomes based on launch date, a pivot table (shown below) was created. The pivot tabl
+To draw conclusions about theatre outcomes based on launch date, a pivot table (shown below) was created. The pivot table summarizes the outcome count of successful, failed and canceled theatre campaigns based on the month they were launched. The pivot table also includes two filters that make it easier to read the outcomes based on specific parent categories or years. However, for the sake of this prohect, we have filtered the table to only look at theatre campaigns.
+
+###### Pivot Table: Theatre Outcomes by Launch Date
+
+
+
+
+
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
