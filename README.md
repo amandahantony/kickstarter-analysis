@@ -10,4 +10,4 @@ Using the values and charts obtained through this excel analysis, Louise will be
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To draw conclusions about theatre outcomes based on launch date, a pivot table (shown below) was created. The pivot tabl
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
