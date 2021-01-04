@@ -41,4 +41,4 @@ The first pivot table that I created was not showing the same values as the refe
 
 
 
-For all data values, tables and charts, refer to (Kickstarter_Challenge.xlsx)
+For all data values, tables and charts, refer to [Kickstarter Challenge](Kickstarter_Challenge.xlsx)
