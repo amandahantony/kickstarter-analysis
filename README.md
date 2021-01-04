@@ -1,4 +1,4 @@
-# Excel Analysis of Kickstarter Campaigns Across the Globe
+# Excel Analysis of Kickstarter Campaigns
 Performing Excel analysis on Kickstarter campaigns and their data, to map trends and produce meaningful conclusions.
 
 ## Overview of Project
