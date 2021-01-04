@@ -27,11 +27,14 @@ The first pivot table that I created was not showing the same values as the refe
 
 ## Results
 ### Conclusions
-- Based on the chart outlining theatre outcomes and launch date (shown below, left), we can conclude that theatre campaigns launched in May and June had higher success rates. Theatre campaigns launched in December had the lowest success rate.
-- Plays that had a funding goal under $5000 were more successful than plays that were over (shown below, right). The overall trend shows that as funding goal increases, successful percentage decreases and failure percentage increases. 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)                                        ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+- Based on the chart outlining theatre outcomes and launch date (shown below), we can conclude that theatre campaigns launched in May and June had higher success rates. Theatre campaigns launched in December had the lowest success rate.
+###### Theatre Outcomes Based on Launch Chart
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)                                       
 
-
+- Plays that had a funding goal under $5000 were more successful than plays that were over (shown below). The overall trend shows that as funding goal increases, successful percentage decreases and failure percentage increases. 
+###### Outcomes Based on Funding Goals Chart
+ ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+ 
 ### Limitations and Recommendations
 - After working with the first data set in the pivot table, we said that campaigns in May and June had higher success. However, it is also important to note that in general more campaigns were launched in those months. Instead of looking at percentages or ratios of success to failure, we simply looked at the count of success and failures. Yes the number of successful campaigns is larger in May than December, but the number of failures is also larger in May. 
 
